@@ -549,10 +549,7 @@ h2.collections {
   box-shadow: 0px 0px 20px #94dfe5;
 }
 
-div.wrapper {
-  margin-top: 1em;
-  margin-bottom: 2em;
-}
+
 
 #stat_chart svg rect:first-of-type {
   filter: opacity(0%);
